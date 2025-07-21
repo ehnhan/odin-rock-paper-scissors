@@ -1,0 +1,5 @@
+This will initially only work in the console
+
+Ask for input
+Randomly generate a number that will represent rock, paper, or scissors
+Check if player won, lost, or tie and display on screen
